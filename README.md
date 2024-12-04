@@ -1,2 +1,2 @@
-# TaxiLink-API
-TaxiLink Project's Web Service Server
+# Cabsy-API
+Cabsy Project's Web Service Server
